@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "zapatillas 7 ",
+    "price": 3800,
+    "src": "random url"
+  },
+  {
+    "name": "zapatillas 8",
+    "price": 2300,
+    "src": "random url",
+    "id": 1
+  },
+  {
+    "id": 2,
+    "name": "zapatillas 7 ",
+    "price": 3800,
+    "src": "random url"
+  },
+  {
+    "name": "zapatillas 8",
+    "price": 2300,
+    "src": "random url",
+    "id": 3
+  }
+]
